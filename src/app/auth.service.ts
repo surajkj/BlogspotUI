@@ -7,7 +7,7 @@ export class AuthService {
 
   constructor() { }
 
-  getUserDetails(){
+  getUserDetails(username, password){
     //Code to connect with API Server
   }
 }
